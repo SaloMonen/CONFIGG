@@ -1,0 +1,10 @@
+{
+    "user": {
+        "username": "jdoe",
+        "age": 30,
+        "preferences": {
+            "theme": "dark",
+            "notifications": [true, false, true]
+        }
+    }
+}
